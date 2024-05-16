@@ -1,0 +1,67 @@
+FavoriteColor;FavoriteMusicGenre;FavoriteBeverage;FavoriteSoftDrink;Gender;Predicted_Gender
+Cool;Rock;Vodka;7UP/Sprite;F;F
+Neutral;Hip hop;Vodka;Coca Cola/Pepsi;F;F
+Warm;Rock;Wine;Coca Cola/Pepsi;F;F
+Warm;Folk/Traditional;Whiskey;Fanta;F;F
+Cool;Rock;Vodka;Coca Cola/Pepsi;F;F
+Warm;Jazz/Blues;Doesn't drink;Fanta;F;F
+Cool;Pop;Beer;Coca Cola/Pepsi;F;F
+Warm;Pop;Whiskey;Fanta;F;F
+Warm;Rock;Other;7UP/Sprite;F;F
+Neutral;Pop;Wine;Coca Cola/Pepsi;F;F
+Cool;Pop;Other;7UP/Sprite;F;F
+Warm;Pop;Other;7UP/Sprite;F;F
+Warm;Pop;Wine;7UP/Sprite;F;F
+Warm;Electronic;Wine;Coca Cola/Pepsi;F;F
+Cool;Rock;Beer;Coca Cola/Pepsi;F;F
+Warm;Jazz/Blues;Wine;Coca Cola/Pepsi;F;F
+Cool;Pop;Wine;7UP/Sprite;F;F
+Cool;Rock;Other;Coca Cola/Pepsi;F;F
+Cool;Rock;Other;Coca Cola/Pepsi;F;F
+Cool;Pop;Doesn't drink;7UP/Sprite;F;F
+Cool;Pop;Beer;Fanta;F;F
+Warm;Jazz/Blues;Whiskey;Fanta;F;F
+Cool;Rock;Vodka;Coca Cola/Pepsi;F;F
+Warm;Pop;Other;Coca Cola/Pepsi;F;F
+Cool;Folk/Traditional;Whiskey;7UP/Sprite;F;F
+Warm;R&B and soul;Whiskey;Coca Cola/Pepsi;F;F
+Cool;Pop;Beer;Other;F;F
+Cool;Pop;Doesn't drink;Other;F;F
+Cool;Pop;Doesn't drink;Coca Cola/Pepsi;F;F
+Cool;Electronic;Doesn't drink;Fanta;F;F
+Warm;Rock;Other;Coca Cola/Pepsi;F;F
+Neutral;Rock;Beer;Coca Cola/Pepsi;F;F
+Cool;R&B and soul;Beer;Coca Cola/Pepsi;F;F
+Warm;R&B and soul;Wine;Other;M;F
+Neutral;Hip hop;Beer;7UP/Sprite;M;F
+Warm;Electronic;Other;Coca Cola/Pepsi;M;F
+Neutral;Rock;Doesn't drink;Coca Cola/Pepsi;M;F
+Cool;Pop;Other;Fanta;M;F
+Cool;Pop;Whiskey;Fanta;M;F
+Warm;Rock;Vodka;7UP/Sprite;M;F
+Cool;Rock;Vodka;Coca Cola/Pepsi;M;F
+Neutral;Pop;Doesn't drink;7UP/Sprite;M;F
+Warm;R&B and soul;Doesn't drink;Coca Cola/Pepsi;M;F
+Cool;Rock;Wine;7UP/Sprite;M;F
+Cool;Folk/Traditional;Beer;Other;M;F
+Cool;Hip hop;Beer;Coca Cola/Pepsi;M;F
+Cool;Hip hop;Wine;Coca Cola/Pepsi;M;F
+Cool;R&B and soul;Whiskey;7UP/Sprite;M;F
+Cool;Rock;Doesn't drink;Other;M;F
+Warm;Hip hop;Beer;Coca Cola/Pepsi;M;F
+Cool;R&B and soul;Doesn't drink;Coca Cola/Pepsi;M;F
+Cool;Rock;Doesn't drink;Coca Cola/Pepsi;M;F
+Cool;Hip hop;Doesn't drink;Other;M;F
+Warm;Rock;Beer;Fanta;M;F
+Cool;Electronic;Doesn't drink;Fanta;M;F
+Cool;Electronic;Other;Fanta;M;F
+Warm;Folk/Traditional;Other;Fanta;M;F
+Warm;Electronic;Vodka;Fanta;M;F
+Warm;Jazz/Blues;Vodka;Coca Cola/Pepsi;M;F
+Cool;Pop;Whiskey;Other;M;F
+Cool;Electronic;Whiskey;Coca Cola/Pepsi;M;F
+Cool;Rock;Vodka;Coca Cola/Pepsi;M;F
+Cool;Hip hop;Beer;Coca Cola/Pepsi;M;F
+Neutral;Hip hop;Doesn't drink;Fanta;M;F
+Cool;Rock;Wine;Coca Cola/Pepsi;M;F
+Cool;Electronic;Beer;Coca Cola/Pepsi;M;F
